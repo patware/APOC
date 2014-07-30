@@ -10,7 +10,7 @@ namespace Ah.Puch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hell o Xibalba.  Hell o Ah Puch.");
+            Console.WriteLine("Hell o Xibalba.  Hell o Ah Puch. Third time is a charm");
             Console.ReadLine();
         }
     }
